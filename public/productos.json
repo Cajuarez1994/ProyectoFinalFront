@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Alimento Balanceado para Perros Adultos",
+    "price": 25000,
+    "description": "Alimento balanceado de alta calidad para perros adultos. Sabor carne.",
+    "image": "https://acdn.mitiendanube.com/stores/001/961/189/products/d_975763-mla43638346466_092020-o-bda9336f49a4a63c0316386606746297-640-0.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Alimento PEDIGREE Cachorro 3kg",
+    "price": 15000,
+    "description": "Alimento especial pedigree para perros cachorros",
+    "image": "https://masonlineprod.vtexassets.com/arquivos/ids/179127/Alimento-Para-Perro-Cachorro-Pedigree-3-Kg-1-64882.jpg?v=637835157314470000"
+  },
+  {
+    "id": 3,
+    "title": "DOG CHOW Cachorro 5kg",
+    "price": 17500,
+    "description": "Aliemento Dog Chaw, alta calidad para tu mascota. Para cachorros.",
+    "image": "https://www.somoswapp.com.ar/media/catalog/product/cache/4e187a3216125186f353d1ef896e6af4/c/a/cachorros_medianos_y_grandes_cara_1.png"
+  },
+  {
+    "id": 4,
+    "title": "CAT CHOW - 3k",
+    "price": 9000,
+    "description": "Alimento de alta calidad para gatos",
+    "image": "https://d28hi93gr697ol.cloudfront.net/071e89ac-46a5-8ab3/img/Producto/58139e34-dd47-31c4-d740-6712391b0d56/cat-chow-6321348d80add.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Whiskas Alimento para Gatos",
+    "price": 1300,
+    "description": "Alimento premium para gatos adultos, sabor mix.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_964911-MLA54934755859_042023-O.webp"
+  },
+  {
+    "id": 6,
+    "title": "Sabrosito MIX 20kg",
+    "price": 25000,
+    "description": "Alimento para gato sabrosito mix (carne, pezcado y pollo)",
+    "image": "https://acdn.mitiendanube.com/stores/001/961/189/products/d_782605-mla42156652213_062020-o-1f07da871903d2216116386585682442-640-0.jpg"
+  },
+  {
+    "id": 7,
+    "title": "BASKEN PLUS GATOS 4 COMP",
+    "price": 2654,
+    "description": "Antiparasitario de espectro total y una sola toma. Estuche x 4 comprimidos de 300 mg cada uno.Apto para hembras gestantes y lactantes con crías de más de 21 días de edad",
+    "image": "https://www.animalia.com.ar/wp-content/uploads/2018/12/basken-plus-gatos.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Shampoo Veterinario para Perros con Dermatitis",
+    "price": 18000,
+    "description": "Shampoo especial para perros con problemas de piel. Alivia picazón y dermatitis.",
+    "image": "https://dcdn.mitiendanube.com/stores/019/016/products/formula_macdonald_gel_champoo_tiendanube_20181-8420c40824fad34e9d15396365797311-240-0.jpg"
+  },
+  {
+    "id": 9,
+    "title": "PIPETA Perro FIPRO",
+    "price": 6800,
+    "description": "Pulguicida garrapaticida de uso externo",
+    "image": "https://www.animalia.com.ar/wp-content/uploads/2018/12/pipeta-fipro.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "PIPETA GATO FRONTLINE",
+    "price": 8000,
+    "description": "COMPOSICIÓN: Fipronil 10%, ACCIÓN: Contra pulgas, garrapatas y piojos",
+    "image": "https://www.universomascota.com.ar/wp-content/uploads/2022/05/373017.png"
+  },
+  {
+    "id": 11,
+    "title": "Collares Para Perros Gatos 30x1cm De Largo",
+    "price": 5300,
+    "description": "Collares 30*1 cms de largo para perror, colores a elección",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_624394-MLA43738450696_102020-O.webp"
+  },
+  {
+    "id": 12,
+    "title": "Collar MIXTOS",
+    "price": 9500,
+    "description": "Collares mixtos perros y/o gatos",
+    "image": "https://rosariopet.com.ar/wp-content/uploads/2022/07/WhatsApp-Image-2021-06-22-at-13.04.25-2.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Collar embudo",
+    "price": 5000,
+    "description": "Collar Tipo Embudo Perros/ Gatos",
+    "image": "https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/temas/collar_isabelino_7.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Cuchas Cubos para Gatos",
+    "price": 25000,
+    "description": "Cuchas resistibles en forma de cubos para gatos de cualquier tamano diferentes colores",
+    "image": "https://acdn.mitiendanube.com/stores/035/032/products/cucha-cubo21-521c922ab30f34728416536543522990-1024-1024.png"
+  },
+  {
+    "id": 15,
+    "title": "Cama para Perros",
+    "price": 36000,
+    "description": "Cama Gris para Perros.Este modelo cuenta con tela fresca y es ideal para verano.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_752626-MLA49759080644_042022-O.webp"
+  },
+  {
+    "id": 16,
+    "title": "Jaula Transportadora para Perros/Gatos",
+    "price": 23500,
+    "description": "Jaula para transportar perro o gato. De material plastico y aluminio.",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_867520-MLU73861217520_012024-O.webp"
+  },
+  {
+    "id": 17,
+    "title": "Amoxibactin 50mg",
+    "price": 5700,
+    "description": "Antibiotico de Uso tópico.",
+    "image": "https://www.dechra.es/admin/public/getimage.ashx?Crop=0&Image=/Files/Images/ecom/products/es/Amoxibactin_50mg.jpg&Format=jpg&AlternativeImage=/files/Images/placeholder-image.png&Width=600&Quality=75"
+  },
+  {
+    "id": 18,
+    "title": "Alimento húmedo en lata para perros adultos.",
+    "price": 3000,
+    "description": "Alimento AGILITY de carne vacuna para perros adultos.",
+    "image": "https://acdn.mitiendanube.com/stores/979/500/products/lata-agility-perro1-9993d69b01ef8928fe16582633294898-1024-1024.png"
+  }
+]
