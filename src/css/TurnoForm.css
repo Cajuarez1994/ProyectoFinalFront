@@ -1,0 +1,62 @@
+.form-container {
+  background-color: #f0f8ff; /* Color de fondo suave */
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px; /* Ancho máximo del formulario */
+  margin: 2rem auto; /* Centrando el contenedor */
+  padding: 2rem; /* Espaciado interno */
+  display: flex;
+  flex-direction: column; /* Colocando elementos en columna */
+  align-items: center; /* Centrando horizontalmente */
+}
+.mainform{
+    background-color: rgb(37, 189, 189);
+}
+.divcListaTurno{
+    background-color: #4c6aaf;
+}
+h1 {
+  color: #333; /* Color del título */
+  margin-bottom: 1rem; /* Margen inferior */
+}
+
+.form-group {
+  width: 100%; /* Ancho completo */
+  margin-bottom: 1rem; /* Espaciado entre grupos */
+}
+
+label {
+  display: block; /* Para que el label ocupe toda la línea */
+  margin-bottom: 0.5rem; /* Margen inferior */
+  font-weight: bold; /* Haciendo el texto en negrita */
+}
+
+input,
+select {
+  width: 100%; /* Ancho completo */
+  padding: 0.5rem; /* Espaciado interno */
+  border: 1px solid #ccc; /* Borde gris */
+  border-radius: 5px; /* Bordes redondeados */
+  box-sizing: border-box; /* Asegura que el padding no aumente el tamaño */
+}
+
+input:focus,
+select:focus {
+  border-color: #66afe9; /* Cambia el color del borde al hacer foco */
+  outline: none; /* Eliminar el contorno por defecto */
+}
+
+.submit-button {
+  background-color: #4caf50; /* Color verde para el botón */
+  color: white; /* Texto blanco */
+  padding: 0.7rem; /* Espaciado interno */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor al pasar el ratón */
+  width: 100%; /* Ancho completo */
+  font-size: 16px; /* Tamaño de fuente */
+}
+
+.submit-button:hover {
+  background-color: #08430b; /* Color más oscuro al pasar el ratón */
+}

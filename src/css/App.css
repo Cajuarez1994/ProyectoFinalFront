@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  /* Para poder fijar el pie de página con posición absoluta */
+  position: relative;
+  /* Medida mínima */
+  min-height: 100vh;
+}

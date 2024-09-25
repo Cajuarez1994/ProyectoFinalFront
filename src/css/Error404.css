@@ -1,0 +1,34 @@
+.error-image {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+
+.containerError {
+  max-width: 600px;
+}
+
+.Errorh1 {
+  font-size: 2.5rem;
+  color: #FF5722;
+}
+
+.Errorp {
+  font-size: 1.2rem;
+  color: #0a0707;
+   
+}
+
+.mainError {
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../img/Error404-1.jpg'); /* Cambia la ruta de la imagen */
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+

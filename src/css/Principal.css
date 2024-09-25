@@ -1,0 +1,49 @@
+main {
+  background: linear-gradient(135deg, #a8e0d9, #f5c2c7); /* Degradado suave de verde a rosa */
+  padding: 40px 20px; /* Espaciado superior e inferior */
+  min-height: 100vh; /* Asegurarse de que el main ocupe al menos toda la altura de la ventana */
+}
+
+h2 {
+  font-size: 2.5rem; /* Tamaño de la fuente del encabezado */
+  color: #2c3e50; /* Color del texto oscuro */
+  margin-bottom: 40px; /* Espacio debajo del encabezado */
+}
+
+.container {
+  max-width: 1200px; /* Ancho máximo del contenedor */
+  margin: 0 auto; /* Centrar el contenedor */
+}
+
+.row {
+  display: flex; /* Usar flexbox para alinear los cards */
+  justify-content: center; /* Centrar los cards */
+  flex-wrap: wrap; /* Permitir que los cards se ajusten a varias filas */
+}
+
+.card {
+  background-color: #ffffff; /* Fondo blanco para los cards */
+  border: 1px solid #dee2e6; /* Borde gris claro */
+  border-radius: 10px; /* Bordes redondeados */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  margin: 15px; /* Espaciado entre los cards */
+  padding: 20px; /* Espaciado interno */
+  transition: transform 0.3s, box-shadow 0.3s; /* Transición para efectos hover */
+  width: 300px; /* Ancho fijo de los cards */
+}
+
+.card:hover {
+  transform: translateY(-5px); /* Levantar el card al pasar el ratón */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Aumentar la sombra al hacer hover */
+}
+
+.card-title {
+  font-size: 1.5rem; /* Tamaño del título del card */
+  color: #2c3e50; /* Color del texto */
+  margin-bottom: 15px; /* Espacio debajo del título */
+}
+
+.card-text {
+  font-size: 1rem; /* Tamaño del texto del card */
+  color: #7f8c8d; /* Color del texto */
+}

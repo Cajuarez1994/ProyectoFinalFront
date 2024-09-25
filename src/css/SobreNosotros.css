@@ -1,0 +1,44 @@
+.mainsobrenosotros {
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5)
+    ),
+    url('../img/Sobre_Nosotros.jpg'); /* Cambia la ruta de la imagen */
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.nosotrosh1 {
+  font-size: 2.5rem;
+  font-family: 'Arial', sans-serif;
+  color: #f0f8ff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+.nosotrosp {
+  font-size: 1.2rem;
+  color: #f0f8ff;
+  font-family: 'Verdana', sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.card-image {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  display: block; /* Asegura que se comporte como un bloque */
+  margin-left: auto;
+  margin-right: auto;
+}
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+  p {
+    font-size: 1rem;
+  }
+}

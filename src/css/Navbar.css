@@ -1,0 +1,29 @@
+/* Fijar el navbar en la parte superior */
+.custom-navbar {
+  background: linear-gradient(90deg, #B3E5FC, #A5D6A7); /* Un color suave y agradable */
+/* background: linear-gradient(90deg, #4DD0E1, #FF8A80);*/
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Añadir una pequeña sombra */
+  height: 60px; /* Ajusta la altura */
+  padding: 10px 0;
+}
+
+/* Estilo de los links */
+.custom-navbar {
+  color: rgb(17, 16, 16);
+  padding: 0 15px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 40px; /* Ajustar la alineación vertical */
+}
+
+/* Cambiar el color de los links al hacer hover o cuando están activos */
+.nav-link-custom:hover, .nav-link-custom:focus, .nav-link-custom.active {
+  color: #ffc107; /* Un color amarillo para resaltar */
+  text-decoration: underline; /* Subrayar cuando esté activo o al pasar el mouse */
+}
+
+/* Reducir el tamaño del logo */
+.custom-navbar .navbar-brand img {
+  max-height: 100%;
+  width: auto;
+}

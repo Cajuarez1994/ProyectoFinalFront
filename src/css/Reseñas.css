@@ -1,0 +1,18 @@
+.reseñas-container {
+  margin: 0px;
+  padding: 20px;
+  background: linear-gradient(135deg, #a2e4f4, #b2f7ef, #d4f7b2);
+  border-radius: 10px;
+}
+.reseña-estrellas {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
